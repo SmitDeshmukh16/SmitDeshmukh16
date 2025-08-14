@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SAIRAJ%20BODHALE&fontSize=70&desc=Crafting%20Digital%20Experiences&descSize=20&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SMIT%20DESHMUKH&fontSize=70&desc=Crafting%20Digital%20Experiences&descSize=20&descAlignY=62&animation=fadeIn" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sairaj-bodhale/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+  <a href="www.linkedin.com/in/smit-deshmukh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sairajB"><img width="32px" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/></a>
+  <a href="https://github.com/SmitDeshmukh16"><img width="32px" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="sairaj.sab@gmail.com"><img width="32px" alt="Email" title="Email" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/></a>
+  <a href="deshmukhsmit11@gmail.com"><img width="32px" alt="Email" title="Email" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/></a>
   &nbsp;&nbsp;&nbsp;
 </div>
 
@@ -20,11 +20,11 @@
 ## 🧪 My Digital Laboratory
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairajB&theme=midnight-purple&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&bg_color=0d1117&stroke=6A5ACD&ring=6A5ACD&fire=FFD700&currStreakLabel=6A5ACD" width="90%" alt="streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmitDeshmukh16&theme=midnight-purple&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&bg_color=0d1117&stroke=6A5ACD&ring=6A5ACD&fire=FFD700&currStreakLabel=6A5ACD" width="90%" alt="streak stats">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sairajB&style=for-the-badge&color=6A5ACD&labelColor=000000&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SmitDeshmukh16&style=for-the-badge&color=6A5ACD&labelColor=000000&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ## ⚡ Core Technologies
@@ -196,17 +196,17 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sairajB&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&icon_color=6A5ACD" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SmitDeshmukh16&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&icon_color=6A5ACD" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajB&langs_count=8&layout=compact&theme=midnight-purple&hide=html,Tcl&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitDeshmukh16&langs_count=8&layout=compact&theme=midnight-purple&hide=html,Tcl&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairajB&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=c9d1d9&area=true&hide_border=true&theme=react-dark" width="90%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmitDeshmukh16&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=c9d1d9&area=true&hide_border=true&theme=react-dark" width="90%" alt="Activity Graph">
 </div>
 
 <div align="center">
